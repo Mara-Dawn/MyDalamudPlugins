@@ -1,23 +1,31 @@
 [
     {
-        "Author": "attick, daemitus, Khayle",
-        "Name": "XIV Combo Expanded",
-        "Punchline": "Condenses combos and mutually exclusive abilities onto a single button.",
-        "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. For example, a 1-2-3 combo would become 1-1-1.",
-        "InternalName": "XIVComboExpanded",
-        "AssemblyVersion": "1.4.0.25",
-        "RepoUrl": "https://github.com/daemitus/XIVComboPlugin",
+        "Author": "MaraDawn",
+        "Name": "OOFingway",
+        "Punchline": "Play the OOF! sound on fall and/or death.",
+        "Description": "Fork of the OOF! Plugin made by Frogworks-Interactive\n           \nfeatures\n  - oof on party & alliance deaths!\n  - use custom mp3 sounds! \n  - DBO (Distance Based Oof)!\n  - instant access to the hour long documentary on oof by hbomberguy!\n  - fully featured settings window!\n          ",
+        "InternalName": "OofPluginFixed",
+        "AssemblyVersion": "1.2.1.0",
+        "RepoUrl": "https://github.com/Mara-Dawn/OOF",
         "ApplicableVersion": "any",
+        "Tags": [
+            "Oof",
+            "Fall Damage",
+            "Death",
+            "Play",
+            "Alarm",
+            "Roblox",
+            "Obby",
+            "Sound"
+        ],
         "DalamudApiLevel": 9,
         "LoadPriority": 0,
-        "IconUrl": "https://raw.githubusercontent.com/daemitus/XIVComboPlugin/master/res/icon.png",
-        "ImageUrls": [],
-        "DownloadLinkInstall": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
+        "DownloadLinkInstall": "https://github.com/Mara-Dawn/MyDalamudPlugins/raw/master/plugins/OofPluginFixed/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
+        "DownloadLinkTesting": "https://github.com/Mara-Dawn/MyDalamudPlugins/raw/master/plugins/OofPluginFixed/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Mara-Dawn/MyDalamudPlugins/raw/master/plugins/OofPluginFixed/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1697680726"
+        "LastUpdate": "1701432245"
     }
 ]
