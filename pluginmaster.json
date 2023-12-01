@@ -5,7 +5,7 @@
         "Punchline": "Play the OOF! sound on fall and/or death.",
         "Description": "Fork of the OOF! Plugin made by Frogworks-Interactive\n           \nfeatures\n  - oof on party & alliance deaths!\n  - use custom mp3 sounds! \n  - DBO (Distance Based Oof)!\n  - instant access to the hour long documentary on oof by hbomberguy!\n  - fully featured settings window!\n          ",
         "InternalName": "OofPluginFixed",
-        "AssemblyVersion": "1.2.1.0",
+        "AssemblyVersion": "1.2.1.1",
         "RepoUrl": "https://github.com/Mara-Dawn/OOF",
         "ApplicableVersion": "any",
         "Tags": [
@@ -26,6 +26,6 @@
         "DownloadLinkTesting": "https://github.com/Mara-Dawn/MyDalamudPlugins/raw/master/plugins/OofPluginFixed/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Mara-Dawn/MyDalamudPlugins/raw/master/plugins/OofPluginFixed/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1701432245"
+        "LastUpdate": "1701433110"
     }
 ]
