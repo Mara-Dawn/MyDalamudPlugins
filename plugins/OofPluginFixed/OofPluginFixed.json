@@ -1,0 +1,26 @@
+{
+  "Author": "MaraDawn",
+  "Name": "OOFingway",
+  "InternalName": "OofPluginFixed",
+  "AssemblyVersion": "1.2.1.0",
+  "Description": "Fork of the OOF! Plugin made by Frogworks-Interactive\n           \nfeatures\n  - oof on party & alliance deaths!\n  - use custom mp3 sounds! \n  - DBO (Distance Based Oof)!\n  - instant access to the hour long documentary on oof by hbomberguy!\n  - fully featured settings window!\n          ",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/Mara-Dawn/OOF",
+  "Tags": [
+    "Oof",
+    "Fall Damage",
+    "Death",
+    "Play",
+    "Alarm",
+    "Roblox",
+    "Obby",
+    "Sound"
+  ],
+  "DalamudApiLevel": 9,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "Play the OOF! sound on fall and/or death.",
+  "AcceptsFeedback": true
+}
