@@ -1,28 +1,5 @@
 [
     {
-        "Author": "Kaminaris, kij",
-        "Name": "NextUIOverlay",
-        "Punchline": "OverlayPlugin for Dalamud with built in HUD replacement",
-        "Description": "OverlayPlugin replacement for Dalamud, works similarly to BrowserHost with addition to having more options and built in websocket server.",
-        "InternalName": "NextUIOverlay",
-        "AssemblyVersion": "1.0.5.0",
-        "RepoUrl": "https://gitlab.com/kaminariss/nextui-plugin",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "UI"
-        ],
-        "DalamudApiLevel": 12,
-        "LoadPriority": 0,
-        "IconUrl": "https://gitlab.com/kaminariss/nextui-plugin/-/raw/master/icon.png",
-        "DownloadLinkInstall": "https://github.com/Mara-Dawn/MyDalamudPlugins/raw/master/plugins/NextUIOverlay/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/Mara-Dawn/MyDalamudPlugins/raw/master/plugins/NextUIOverlay/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Mara-Dawn/MyDalamudPlugins/raw/master/plugins/NextUIOverlay/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdate": "1732711230"
-    },
-    {
         "Author": "Mara",
         "Name": "OOFingway",
         "Punchline": "Play the OOF! sound on fall and/or death.",
@@ -49,6 +26,29 @@
         "DownloadLinkTesting": "https://github.com/Mara-Dawn/MyDalamudPlugins/raw/master/plugins/OofPluginFixed/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Mara-Dawn/MyDalamudPlugins/raw/master/plugins/OofPluginFixed/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1732711230"
+        "LastUpdate": "1743196355"
+    },
+    {
+        "Author": "Kaminaris, kij",
+        "Name": "NextUIOverlay",
+        "Punchline": "OverlayPlugin for Dalamud with built in HUD replacement",
+        "Description": "OverlayPlugin replacement for Dalamud, works similarly to BrowserHost with addition to having more options and built in websocket server.",
+        "InternalName": "NextUIOverlay",
+        "AssemblyVersion": "1.0.5.0",
+        "RepoUrl": "https://gitlab.com/kaminariss/nextui-plugin",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "UI"
+        ],
+        "DalamudApiLevel": 12,
+        "LoadPriority": 0,
+        "IconUrl": "https://gitlab.com/kaminariss/nextui-plugin/-/raw/master/icon.png",
+        "DownloadLinkInstall": "https://github.com/Mara-Dawn/MyDalamudPlugins/raw/master/plugins/NextUIOverlay/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/Mara-Dawn/MyDalamudPlugins/raw/master/plugins/NextUIOverlay/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Mara-Dawn/MyDalamudPlugins/raw/master/plugins/NextUIOverlay/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1743196355"
     }
 ]
