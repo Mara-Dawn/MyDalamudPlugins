@@ -11,7 +11,7 @@
         "Tags": [
             "UI"
         ],
-        "DalamudApiLevel": 11,
+        "DalamudApiLevel": 12,
         "LoadPriority": 0,
         "IconUrl": "https://gitlab.com/kaminariss/nextui-plugin/-/raw/master/icon.png",
         "DownloadLinkInstall": "https://github.com/Mara-Dawn/MyDalamudPlugins/raw/master/plugins/NextUIOverlay/latest.zip",
